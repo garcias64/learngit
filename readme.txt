@@ -3,3 +3,4 @@ et plus encore
 encore
 bidule
 truc
+conflit
